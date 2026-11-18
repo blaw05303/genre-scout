@@ -7,7 +7,7 @@ My user is indie game developers, these developers need to decide what genre the
 
 ## What it does
 My app answers three questions:
-1. **Quality:** Which genres have the best rated games? 
+1. **Quality:** Which genres have the best rated games, and what do the best-rated games in those genres have in common? 
 2. **Room to grow:** Which genres have many players but few games?
 3. **Price:** In the most promising genres, what price do the best-rated games charge?
 4. **Timing:** Which genres have the most top games released in recent years, so the studio can tell growing genres from fading ones?
