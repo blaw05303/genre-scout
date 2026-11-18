@@ -3,7 +3,7 @@ My app helps a small indie game studio decide which genre to make its next game 
  A course project for **MIST 4600: Computer Programming in Business** at the University of Georgia's Terry College of Business (Fall 2026).
 
 ## Problem
-My user is indie game developers, these developers need to decide what genre their next game should be, and why it's hard without your app. (2-3 sentences)
+My user is indie game developers, there are so many different types of games that are popular now and predicting where consumer tastes will be after a production cycle can be very difficult. My app enables developers to see current consumer trends and possible options for their next project.
 
 ## What it does
 My app answers three questions:
